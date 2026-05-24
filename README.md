@@ -23,22 +23,26 @@
 ## 🚀 Tech Stack
 
 <div align="center">
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express)
-![NestJS](https://img.shields.io/badge/NestJS-111111?style=for-the-badge&logo=nestjs)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
+  
+![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-black?style=for-the-badge&logo=nestjs)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+
 </div>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -50,7 +54,7 @@
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <div align="center">
 
@@ -60,7 +64,7 @@
 
 ---
 
-# 📈 Activity Graph
+## 📈 Activity Graph
 
 <div align="center">
 
@@ -70,7 +74,7 @@
 
 ---
 
-# 📌 Featured Projects
+## 📌 Featured Projects
 
 <div align="center">
 
@@ -86,20 +90,34 @@
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)](https://github.com/bajelanmehran)
-[![Gmail](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail)](mailto:yourmail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail)](mailto:bajelanmehran@gmail.com)
+[![X](https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x)](https://x.com/bajelanmehran)
+[![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/mehran_bj6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin)](https://linkedin.com/bajelanmehran)
 
 </div>
 
----
 
-<div align="center">
+```python
+class Developer:
 
-### ⚡ Code. Build. Improve. Repeat.
+    def __init__(self):
+        self.coffee = True
+        self.bugs = []
 
-</div>
+    def build(self):
+        return "Scalable Applications"
+
+    def improve(self):
+        return "Clean Architecture"
+
+while True:
+    code()
+    deploy()
+    improve()
+```
