@@ -1,10 +1,10 @@
 <div align="center">
 
-## Hey there 👋 I'm Mehran Bajelan
+![Header](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Hey%20there%20👋%20I'm%20Mehran%20Bajelan&fontSize=24&reversal=true&textBg=false&fontAlignY=30&fontColor=FFFFFF)
 
-<img src="https://img.shields.io/badge/Online!-green" />
+<img src="https://img.shields.io/badge/Always-Online!-green" />
 
-<br /><br />
+<br />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+scalable+web+applications;Always+learning+new+technologies;PHP+%7C+Python+%7C+React.js+%7C+Next.js+%7C+Node.js+%7C+Express" />
 
