@@ -18,7 +18,7 @@
 
 - 💻 Full-Stack Developer with 10+ years of experience
 - ⚡ Building scalable web applications & backend systems
-- 🌱 Currently improving my German 🇩🇪
+- 🌱 Currently improving my German <img src="https://icons.iconarchive.com/icons/custom-icon-design/2014-world-cup-flags/48/Germany-icon.png" style="width:16px;vertical-align:middle;" />
 - 🚀 Interested in modern web technologies & cloud systems
 - 🎯 Focused on clean architecture and performance
 
