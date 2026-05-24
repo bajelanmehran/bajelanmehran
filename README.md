@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Hey%20there%20👋%20I'm%20Mehran%20Bajelan&fontSize=24&reversal=true&textBg=false&fontAlignY=30&fontColor=FFFFFF)
 
-<img src="https://img.shields.io/badge/Always-Online!-green" />
+<img src="https://img.shields.io/badge/Always-Online!-brightgreen" />
 
 <br />
 
