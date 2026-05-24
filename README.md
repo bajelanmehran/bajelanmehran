@@ -18,6 +18,25 @@
 - 🚀 Interested in modern web technologies & cloud systems
 - 🎯 Focused on clean architecture and performance
 
+```python
+class Developer:
+
+    def __init__(self):
+        self.coffee = True
+        self.bugs = []
+
+    def build(self):
+        return "Scalable Applications"
+
+    def improve(self):
+        return "Clean Architecture"
+
+while True:
+    code()
+    deploy()
+    improve()
+```
+
 ---
 
 ## 🚀 Tech Stack
@@ -52,45 +71,23 @@
 
 </div>
 
----
-
-## 🔥 GitHub Streak
+<br />
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bajelanmehran&theme=tokyonight&hide_border=true&background=0D1117" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bajelanmehran&theme=monokai&hide_border=true&background=FFFFFF&dates=3A1515&currStreakLabel=EB3622&ring=FFE924&fire=FF3644&sideNums=FF3644&sideLabels=EB3622&currStreakNum=FF3644)](https://github.com/bajelanmehran)
+
+</div>
+
+<br />
+
+<div align="center">
+
+[![Mehran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bajelanmehran&theme=monokai&hide_border=true)](https://github.com/bajelanmehran)
 
 </div>
 
 ---
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Mehran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bajelanmehran&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/bajelanmehran)
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/bajelanmehran">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=bajelanmehran&repo=YOUR_REPOSITORY&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
-<a href="https://github.com/bajelanmehran">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=bajelanmehran&repo=YOUR_REPOSITORY_2&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
-</div>
-
----
-
-## 🌐 Connect With Me
 
 <div align="center">
 
@@ -101,23 +98,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin)](https://linkedin.com/bajelanmehran)
 
 </div>
-
-
-```python
-class Developer:
-
-    def __init__(self):
-        self.coffee = True
-        self.bugs = []
-
-    def build(self):
-        return "Scalable Applications"
-
-    def improve(self):
-        return "Clean Architecture"
-
-while True:
-    code()
-    deploy()
-    improve()
-```
