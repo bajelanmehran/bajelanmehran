@@ -23,22 +23,14 @@
 - 🎯 Focused on clean architecture and performance
 
 ```python
-class Developer:
-
-    def __init__(self):
-        self.coffee = True
-        self.bugs = []
-
-    def build(self):
-        return "Scalable Applications"
-
-    def improve(self):
-        return "Clean Architecture"
-
-while True:
+while cofee:
     code()
+    build()
     deploy()
-    improve()
+    learn()
+
+    if bugs:
+        fix()
 ```
 
 ## 🚀 Tech Stack
