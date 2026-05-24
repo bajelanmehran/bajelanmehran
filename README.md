@@ -23,7 +23,7 @@
 - 🎯 Focused on clean architecture and performance
 
 ```python
-while cofee:
+while coffee:
     code()
     build()
     deploy()
