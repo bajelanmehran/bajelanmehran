@@ -41,8 +41,6 @@ while True:
     improve()
 ```
 
----
-
 ## 🚀 Tech Stack
 
 <div align="center">
