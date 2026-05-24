@@ -2,9 +2,13 @@
 
 ## Hey there 👋 I'm Mehran Bajelan
 
-<img src="https://img.shields.io/badge/Fullstack_Developer%20-%20PHP%20%7C%20Python%20%7C%20Javascript%20%7C%20Typescript-red" />
+<img src="https://img.shields.io/badge/Online!-green" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=559DF6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+scalable+web+applications;Always+learning+new+technologies;PHP+%7C+Python+%7C+React.js+%7C+Next.js+%7C+Node.js+%7C+Express" />
+<br /><br />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+scalable+web+applications;Always+learning+new+technologies;PHP+%7C+Python+%7C+React.js+%7C+Next.js+%7C+Node.js+%7C+Express" />
+
+[![My Skills](https://skillicons.dev/icons?i=php,python,js,ts,react,nextjs,nodejs,express,nestjs,mongodb,mysql,postgres,docker)](https://github.com/bajelanmehran)
 
 </div>
 
@@ -59,15 +63,14 @@ while True:
 
 </div>
 
+<!--
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bajelanmehran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bajelanmehran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img src="https://github-profile-trophy.vercel.app/?username=bajelanmehran&theme=monokai&no-frame=true&no-bg=false&margin-w=15&row=1" />
 
 </div>
 
@@ -86,6 +89,8 @@ while True:
 [![Mehran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bajelanmehran&theme=monokai&hide_border=true)](https://github.com/bajelanmehran)
 
 </div>
+
+--->
 
 ---
 
