@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Hey%20there%20👋%20I'm%20Mehran%20Bajelan&fontSize=28&fontColor=333)
+![Header](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Hey%20there%20👋%20I'm%20Mehran&fontSize=28&fontColor=333)
 
 <img src="https://img.shields.io/badge/Always-Online!-brightgreen" />
 
